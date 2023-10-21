@@ -1,0 +1,7 @@
+spring:
+  kafka:
+    producer:
+      bootstrap-servers:
+      client-id: "myproducer"
+    consumer:
+      bootstrap-servers:
